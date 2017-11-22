@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10ea231c-6f6a-4a12-974d-a40411c70354" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.clj" afterPath="$PROJECT_DIR$/project.clj" />
       <change type="MODIFICATION" beforePath="/media/jkh46/955a11fa-e8ef-4691-9079-fcf3efc39978/jkh46/src/work/.idea/workspace.xml" afterPath="/media/jkh46/955a11fa-e8ef-4691-9079-fcf3efc39978/jkh46/src/work/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="/media/jkh46/955a11fa-e8ef-4691-9079-fcf3efc39978/jkh46/src/work/project.clj" afterPath="/media/jkh46/955a11fa-e8ef-4691-9079-fcf3efc39978/jkh46/src/work/project.clj" />
@@ -43,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project.clj" pinned="false" current-in-tab="true">
+      <file leaf-file-name="project.clj" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1012">
-              <caret line="53" column="35" lean-forward="false" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
+            <state relative-caret-position="1219">
+              <caret line="68" column="45" lean-forward="false" selection-start-line="68" selection-start-column="45" selection-end-line="68" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -63,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file:///media/jkh46/955a11fa-e8ef-4691-9079-fcf3efc39978/jkh46/src/work/resources/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="207">
+              <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -89,7 +88,7 @@
             <state relative-caret-position="805">
               <caret line="41" column="68" lean-forward="false" selection-start-line="41" selection-start-column="68" selection-end-line="41" selection-end-column="68" />
               <folding>
-                <marker date="1511374678698" expanded="true" signature="0:3608" ph="(defproject work ...)" />
+                <marker date="1511375546532" expanded="true" signature="0:3858" ph="(defproject work ...)" />
               </folding>
             </state>
           </provider>
@@ -113,7 +112,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="/media/jkh46/955a11fa-e8ef-4691-9079-fcf3efc39978/jkh46/src/work" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -127,8 +126,8 @@
         <option value="/media/jkh46/955a11fa-e8ef-4691-9079-fcf3efc39978/jkh46/src/work/src/cljs/outside/core.cljs" />
         <option value="/media/jkh46/955a11fa-e8ef-4691-9079-fcf3efc39978/jkh46/src/work/src/cljs/work/views.cljs" />
         <option value="/media/jkh46/955a11fa-e8ef-4691-9079-fcf3efc39978/jkh46/src/work/project.clj" />
-        <option value="/media/jkh46/955a11fa-e8ef-4691-9079-fcf3efc39978/jkh46/src/work/resources/public/index.html" />
         <option value="$PROJECT_DIR$/project.clj" />
+        <option value="/media/jkh46/955a11fa-e8ef-4691-9079-fcf3efc39978/jkh46/src/work/resources/public/index.html" />
       </list>
     </option>
   </component>
@@ -343,7 +342,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21769384" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.059642147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -395,7 +394,7 @@
         <state relative-caret-position="805">
           <caret line="41" column="68" lean-forward="false" selection-start-line="41" selection-start-column="68" selection-end-line="41" selection-end-column="68" />
           <folding>
-            <marker date="1511374678698" expanded="true" signature="0:3608" ph="(defproject work ...)" />
+            <marker date="1511375546532" expanded="true" signature="0:3858" ph="(defproject work ...)" />
           </folding>
         </state>
       </provider>
@@ -416,18 +415,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///media/jkh46/955a11fa-e8ef-4691-9079-fcf3efc39978/jkh46/src/work/resources/public/index.html">
+    <entry file="file://$PROJECT_DIR$/project.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="1219">
+          <caret line="68" column="45" lean-forward="false" selection-start-line="68" selection-start-column="45" selection-end-line="68" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project.clj">
+    <entry file="file:///media/jkh46/955a11fa-e8ef-4691-9079-fcf3efc39978/jkh46/src/work/resources/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="53" column="35" lean-forward="false" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
+        <state relative-caret-position="207">
+          <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="32" />
           <folding />
         </state>
       </provider>

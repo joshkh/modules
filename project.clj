@@ -62,8 +62,14 @@
                                     ;       ^---- The required key :entries is missing
                                     ;       }}}}]}}
 
+                                    ;
+                                    ;:outside {:entries #{outside.core}
+                                    ;          :output-to "resources/public/js/compiled/outside.js"}
+
                                     :outside {:entries #{outside.core}
-                                              :output-to "resources/public/js/compiled/outside.js"}}
+                                              :output-to "resources/public/js/compiled/outside.js"}
+
+                                    }
 
                           :closure-defines {goog.DEBUG false}
                           :pretty-print false}}
