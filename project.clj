@@ -4,7 +4,7 @@
                            [reagent "0.7.0"]
                            [re-frame "0.10.2"]]
 
-            :plugins [[lein-cljsbuild "1.1.5"]]
+            :plugins [[lein-cljsbuild "1.1.7"]]
 
             :min-lein-version "2.5.3"
 
@@ -40,6 +40,7 @@
                :source-paths ["src/cljs"]
                :compiler {:main work.core
                           :output-dir "resources/public/js/compiled"
+                          :output-to "resources/public/js/compiled/app.js"
                           :optimizations :advanced
                           :modules {
                                     ; From https://clojurescript.org/reference/compiler-options#modules
@@ -47,7 +48,6 @@
                                     ; with the name "cljs_base.js". This may be overridden by specifying a
                                     ; :cljs-base module describing only :output-to.
 
-                                    :cljs-base {:output-to "resources/public/js/compiled/app.js"}
 
                                     ; ^^^^^^^^^^^^^^^^^^^^
                                     ; But throws a compile error:
