@@ -1,6 +1,6 @@
 (defproject work "0.1.0-SNAPSHOT"
-            :dependencies [[org.clojure/clojure "1.8.0"]
-                           [org.clojure/clojurescript "1.9.908"]
+            :dependencies [[org.clojure/clojure "1.9.0-RC1"]
+                           [org.clojure/clojurescript "1.9.946"]
                            [reagent "0.7.0"]
                            [re-frame "0.10.2"]]
 
@@ -19,7 +19,7 @@
             {:dev
              {:dependencies [[binaryage/devtools "0.9.4"]]
 
-              :plugins [[lein-figwheel "0.5.13"]
+              :plugins [[lein-figwheel "0.5.14"]
                         [lein-doo "0.1.8"]]}}
 
             :cljsbuild

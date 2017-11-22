@@ -47,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file:///media/jkh46/955a11fa-e8ef-4691-9079-fcf3efc39978/jkh46/src/work/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -57,14 +57,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project.clj" pinned="false" current-in-tab="false">
+      <file leaf-file-name="project.clj" pinned="false" current-in-tab="true">
         <entry file="file:///media/jkh46/955a11fa-e8ef-4691-9079-fcf3efc39978/jkh46/src/work/project.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="874">
-              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-              <folding>
-                <marker date="1511373278039" expanded="true" signature="0:3627" ph="(defproject work ...)" />
-              </folding>
+            <state relative-caret-position="253">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -81,6 +79,11 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>figwheel</find>
+    </findStrings>
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -92,8 +95,8 @@
         <option value="/media/jkh46/955a11fa-e8ef-4691-9079-fcf3efc39978/jkh46/src/work/src/cljs/work/admin.cljs" />
         <option value="/media/jkh46/955a11fa-e8ef-4691-9079-fcf3efc39978/jkh46/src/work/src/cljs/outside/core.cljs" />
         <option value="/media/jkh46/955a11fa-e8ef-4691-9079-fcf3efc39978/jkh46/src/work/src/cljs/work/views.cljs" />
-        <option value="/media/jkh46/955a11fa-e8ef-4691-9079-fcf3efc39978/jkh46/src/work/project.clj" />
         <option value="$PROJECT_DIR$/project.clj" />
+        <option value="/media/jkh46/955a11fa-e8ef-4691-9079-fcf3efc39978/jkh46/src/work/project.clj" />
       </list>
     </option>
   </component>
@@ -323,16 +326,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///media/jkh46/955a11fa-e8ef-4691-9079-fcf3efc39978/jkh46/src/work/project.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding>
-            <marker date="1511373278039" expanded="true" signature="0:3627" ph="(defproject work ...)" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///media/jkh46/955a11fa-e8ef-4691-9079-fcf3efc39978/jkh46/src/work/src/cljs/work/views.cljs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -353,6 +346,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/jkh46/955a11fa-e8ef-4691-9079-fcf3efc39978/jkh46/src/work/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
